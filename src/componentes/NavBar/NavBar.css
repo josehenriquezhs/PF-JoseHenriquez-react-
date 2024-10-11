@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.logogoat {
+    width: 100px;
+}
+
+li{
+    display: inline-block;
+    margin: 0 35px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.Nav-Link {
+    color: black; 
+    text-decoration: none; 
+  }
+  
+
+
